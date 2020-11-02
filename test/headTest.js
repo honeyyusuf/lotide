@@ -1,7 +1,7 @@
 
 
 const assert = require('chai').assert;
-const head   = require('../head');
+const head = require('../head');
 
 describe("#head", () => {
   it("Returns 1 for [1, 2, 3]", () => {
